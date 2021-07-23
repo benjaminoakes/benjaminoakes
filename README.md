@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hi, I'm Ben (he/his)
 
-<!--
-**benjaminoakes/benjaminoakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineer at Doximity, primarily writing in Ruby.  ([We're hiring](https://grnh.se/99729aa61us)!)
 
-Here are some ideas to get you started:
+Other passions, in no particular order:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Open source
+- Tech communities
+- The web as hypertext and an application platform
+- Iowa City
+- Sustainability
+- A hopeful future (e.g., Star Trek)
+- Parenting
+- Language acquisition
+- American Sign Language
+- Video games
+
+If you have something in common with me, please take a moment to say hello!
