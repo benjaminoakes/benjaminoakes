@@ -15,4 +15,4 @@ Other passions, in no particular order:
 - American Sign Language
 - Video games
 
-If you have something in common with me, please take a moment to say hello!
+If you have something in common with me, please take a moment to say hello over email or <a rel="me" href="https://ruby.social/@benjaminoakes">Mastodon</a>.
