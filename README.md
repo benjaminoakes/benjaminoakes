@@ -1,6 +1,6 @@
 👋 Hi, I'm Ben (he/his)
 
-I'm an independent software engineer, primarily writing in Ruby.  ([I'm available for hire!](https://www.benjaminoakes.com/hire/)!)
+I'm an independent software engineer, primarily writing in Ruby.  ([I'm available for hire!](https://www.benjaminoakes.com/hire/))
 
 Other passions, in no particular order:
 
