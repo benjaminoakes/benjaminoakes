@@ -1,6 +1,6 @@
 👋 Hi, I'm Ben (he/his)
 
-I'm a software engineer, primarily writing in Ruby.  ([I'm available for hire](https://www.benjaminoakes.com/hire/)!  Or consider [sponsoring]([url](https://buymeacoffee.com/benjaminoakes)).)
+I'm a software engineer, primarily writing in Ruby.  (I'm available for [hire](https://www.benjaminoakes.com/hire/)!  Or consider [sponsoring](https://buymeacoffee.com/benjaminoakes) ❤️)
 
 Other passions, in no particular order:
 
